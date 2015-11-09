@@ -65,7 +65,7 @@ describe('immutability', () => {
             'Trainspotting',
             '28 Days Later'
           )
-        }));
+        }))
       }); 
     });
 
